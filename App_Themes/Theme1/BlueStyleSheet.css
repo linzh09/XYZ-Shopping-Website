@@ -1,0 +1,91 @@
+﻿body 
+{
+    font-family:Arial;
+    font-size:10pt;
+    font-weight:normal;
+    color:Black;
+}
+
+.banner
+{
+    color:#00a000;
+    background-color:#ffffa0;
+    font-family:Tahoma;
+    font-size:20pt;
+    text-align:center;
+}
+
+.staticMenu
+{
+    background-color:#ffffd0;  /* light yellow */
+    border:1px solid #00c000;
+    color:Red;
+}
+
+.hoverMenu
+{
+    /*background-color:#ffff50;*/  /* light yellow */
+    background-color:Blue;
+    color:Red;
+}
+
+.mainHeading
+{
+    font-family:Tahoma;
+    font-size:14pt;
+    font-weight:bold;
+    color:#00c000;
+    background-color:#f0fff0;
+}
+
+.mainButton
+{
+    font-family:Arial;
+    font-size:10pt;
+    font-weight:bold;
+    color:#f0fff0;
+    background-color:#00c000;
+}
+
+.cancelButton
+{
+  background-color:#f9f9f9; /* dark red */
+  color:blue;
+  font-size:9pt;
+}
+
+.statusLabel
+{
+    font-family:Arial;
+    font-size:9pt;
+    font-weight:bold;
+    color:#c00000;
+    background-color:#f0fff0;
+}
+
+.GridHeader
+{
+    font-family:Arial;
+    font-size:10pt;
+    color:White;
+    background-color:#40bbff;
+    text-align:center;
+}
+.GridRow
+{
+    background-color:#EFF3FF;
+    padding-top:0;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+.GridAltRow
+{
+    background-color:white;
+    padding-top:0;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+
+
